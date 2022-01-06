@@ -4,9 +4,16 @@
 **À la croisée de la coréférence et des expressions polylexicales** [lien vers le dépôt](https://github.com/anaelle-p/MWE_coref)
 
 - Vérification de manière expérimentale de l'hypothèse selon laquelle les composants individuels d'une expression polylexicale sont rarement susceptibles d'appartenir à des chaînes de coréférences;
+
 - Traitements des corpus(extraction des contenus, conversion des formats, alignement des tokens);
+
 - Analyse linguistique des résultats.
+
 - Mémoire : [Étude comparative des expressions polylexicales verbales en français et en chinois : éléments linguistiques, statistiques et TAL](https://github.com/JyLIU-emma/ProjetsIntro/blob/main/memoire/memoire_JianyingLIU.pdf)
+
+  **Résumé** : Ce travail porte sur une étude comparative des expressions polylexicales verbales en français et en chinois. Nous essayons d’abord de valider l’hypothèse sur la non-compositionnalité des expressions polylexicales et les chaînes de coréférence, selon laquelle les composants d’une expression polylexicale verbale sont peu susceptibles d’être repris dans une chaîne de coréférence. Ensuite, en se basant sur les fautes observées pendant l’annotation manuelle, les analyses statistiques des traits et nos connaissances sur la langue chinoise, nous supposons que l'hypothèse se comporte de manière similaire en chinois, et proposons des points à affiner dans l’hypothèse, ainsi que des pistes possibles pour améliorer l’identification automatique des expressions polylexicales verbales en français et en chinois.
+
+  **Mots clés** : expression polylexicale verbale, non-compositionnalité, coréférence, français, chinois
 
 ## Projets TAL (texte)
 
