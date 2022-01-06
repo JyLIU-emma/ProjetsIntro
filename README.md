@@ -6,6 +6,7 @@
 - Vérification de manière expérimentale de l'hypothèse selon laquelle les composants individuels d'une expression polylexicale sont rarement susceptibles d'appartenir à des chaînes de coréférences;
 - Traitements des corpus(extraction des contenus, conversion des formats, alignement des tokens);
 - Analyse linguistique des résultats.
+- Mémoire : [Étude comparative des expressions polylexicales verbales en français et en chinois : éléments linguistiques, statistiques et TAL](https://github.com/JyLIU-emma/ProjetsIntro/tree/main/memoire)
 
 ## Projets TAL (texte)
 
