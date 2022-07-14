@@ -1,4 +1,5 @@
 ## Projets réalisés au cours du Master
+## (Term projects in Master)
 
 ## Stage
 **À la croisée de la coréférence et des expressions polylexicales** [lien vers le dépôt](https://github.com/anaelle-p/MWE_coref)
